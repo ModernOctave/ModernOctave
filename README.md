@@ -8,7 +8,7 @@
   </p>
   <p align="center" >
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernoctave&theme=chartreuse-dark"/>
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernoctave&theme=chartreuse-dark&hide=,Roff,perl,jupyter%20notebook&layout=compact&exclude_repo=karthikmurakonda/Aquisys"/>
     </a>
   </p>
 </div>
