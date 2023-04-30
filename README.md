@@ -12,8 +12,8 @@
 
 <h3 align="left">Some Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=modernoctave&&count_private=true&show_icons=true&theme=chartreuse-dark" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernoctave&theme=chartreuse-dark&hide=,Roff,perl,jupyter%20notebook&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=modernoctave&&count_private=true&show_icons=true&theme=chartreuse-dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernoctave&theme=chartreuse-dark&hide=,Roff,perl,jupyter%20notebook&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
