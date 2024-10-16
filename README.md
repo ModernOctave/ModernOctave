@@ -1,14 +1,14 @@
 <div align="center"><h1>Hi there, I'm <a href="https://modernoctave.github.io/">Om</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></div>
 
-- 🔭 I’m currently working on **Swarm Drones**
+- 🔭 I’m currently working on **SOC Performance Modelling**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Parallel Computation**
 
 - 👨‍💻 Know more about my projects & experiences at [https://modernoctave.github.io/](https://modernoctave.github.io/)
 
-- 💬 Ask me about **Machine Learning, ROS, Linux**
+- 💬 Ask me about **Robotics, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **200010036@iitdh.ac.in**
+- 📫 How to reach me **s4patil@ucsd.edu**
 
 <h3 align="left">Some Stats:</h3>
 <div align="center">
